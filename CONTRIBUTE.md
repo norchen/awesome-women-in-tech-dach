@@ -9,6 +9,7 @@ Sollten diese Regeln nicht beachtet werden, kann es sein, dass dein Pull Request
 ## Regeln
 ### Allgemein
 * Alle Einträge haben einen Bezug zum deutschsprachigen Raum (DE, AT, CH).
+* Formatiere die Listeneinträge entsprechend der bestehenden Einträge und ordne deinen Eintrag, wenn möglich, alphabetisch ein.
 * Verwende das [Pull Request Template](./pull_request_template.md) und auf gesunden Menschenverstand.
 * Überprüfe Rechtschreibfehler bevor du einen Pull Request stellst.
 * Sei nett zum Maintainer dieser Liste und anderen Contributoren.
@@ -19,7 +20,7 @@ Du findest in den folgenden Abschnitten Bewertungskriterien, die zu einem Großt
 
 
 ### Frauen hinzufügen
-Diese Liste enthält Frauen, die:
+Diese Liste enthält Frauen aus der IT, die:
 * Pionierin/Vorreiterin in ihrem IT-Bereich sind,
 * einen Bekanntheitsgrad in der Community haben,
 * Publikationen veröffentlicht haben, wie z.B. Bücher, Blog Artikel, Podcast, oder hilfreichen YouTube Content,
