@@ -104,6 +104,6 @@ Please provide a link back to this repository. This is not necessary for GitHub 
 
 ---
 
-Initiated with :heart: by [Nora Schöner](https://github.com/norchen).
-
+Initiated with :heart: by [Nora Schöner](https://github.com/norchen)<br>
+Banner illustration by [undraw.co](https://undraw.co/illustrations)
 
