@@ -6,13 +6,12 @@ A curated list focussing of awesome and inspiring women in tech/IT, meetups and 
 Translations: [GER :de:](README.md) | [ENG :gb:](README.en.md)
 
 ## Scope
-"Tech" spielt in vielen Bereichen eine Rolle - und ebenso viele tolle Frauen arbeiten und wirken in diesen Bereichen. </br>
-Diese List repräsentieren Frauen, Meetups oder Initiativen, die sich vor allem mit dem **Bereich IT** befassen.
-Mehr zur Entstehung dieser Liste erfährst du auf der [About Seite](./about.md).
+"Tech" bzw. IT spielt in vielen Bereichen des Lebens eine Rolle - und ebenso viele tolle Frauen arbeiten und wirken in diesen. </br>
+Diese Liste sammelt Frauen, Meetups und Initiativen, die sich vor allem mit dem **Bereich IT** befassen.
 
 ## Awesome Women to follow
 Du findest hier vor allem Verlinkung zu Twitter, Instagram oder Blogs. </br>
-Weitere tolle Frauen aus der IT und dem Tech-Bereich findest du in den nächsten Tagen in der `#WomenInTechDACH Twitter Liste (work in progress)`.
+Weitere tolle Frauen aus der IT und dem Tech-Bereich findest du in den nächsten Tagen in der `#WomenInTechDACH Twitter Liste (work in progress)` oder zukünftig in weiteren Sub-Listen in diesem Repos.
 
 ### Deutschland
 * Anaïs Urlichs | [Twitter](https://twitter.com/urlichsanais)
@@ -106,6 +105,6 @@ Please provide a link back to this repository. This is not necessary for GitHub 
 
 ---
 
-Made with :heart: by [Nora Schöner](https://github.com/norchen).
+Initiated with :heart: by [Nora Schöner](https://github.com/norchen).
 
 
