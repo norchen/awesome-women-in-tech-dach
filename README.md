@@ -6,8 +6,7 @@ A curated list focussing of awesome and inspiring women in tech/IT, meetups and 
 Translations: [GER :de:](README.md) | [ENG :gb:](README.en.md)
 
 ## Scope
-"Tech" bzw. IT spielt in vielen Bereichen des Lebens eine Rolle - und ebenso viele tolle Frauen arbeiten und wirken in diesen. </br>
-Diese Liste sammelt Frauen, Meetups und Initiativen, die sich vor allem mit dem **Bereich IT** befassen.
+"Tech" bzw. IT spielt in vielen Bereichen des Lebens eine Rolle - und ebenso viele tolle Frauen arbeiten und wirken in diesen. Diese Liste sammelt Frauen, Meetups und Initiativen, die sich vor allem mit dem **Bereich IT** befassen.
 
 ## Awesome Women to follow
 Du findest hier vor allem Verlinkung zu Twitter, Instagram oder Blogs. </br>
@@ -54,7 +53,7 @@ Weitere tolle Frauen aus der IT und dem Tech-Bereich findest du in den nächsten
 > Legende: :computer: - remote Events möglich
 
 ### Deutschland
-+ [Geekfem](https://twitter.com/geekfem_)
+* [Geekfem](https://twitter.com/geekfem_)
 * [FemDevMeetup](https://femdevsmeetup.com/) | divers | :computer:
 * [She 'n IT Nürnberg](https://www.meetup.com/de-DE/she-n-it-nuremberg/) | Nürnberg, BY | :computer:
 * [Women Techmakers Nuremberg](https://www.meetup.com/de-DE/Women-Techmakers-Nuremberg/) | Nürnberg, BY | :computer:
