@@ -25,6 +25,7 @@ Weitere tolle Frauen aus der IT und dem Tech-Bereich findest du in den nächsten
 * Kathring Radtke | [Twitter](https://twitter.com/RadtkeKathrin)
 * Kenza Ait Si abbou | [Twitter](https://twitter.com/KenzaAbbou)
 * Laura Sophie Dornheim | [Twitter](https://twitter.com/schwarzblond)
+* Lisi Hocke | [Twitter](https://twitter.com/lisihocke) | [Blog](https://www.lisihocke.com/)
 * Luise Freese | [Twitter](https://twitter.com/LuiseFreese)
 * Marianne Spiller | [Twitter](https://twitter.com/netzwerkgoettin)
 * Magdalena Rogl | [Twitter](https://twitter.com/LenaRogl)
